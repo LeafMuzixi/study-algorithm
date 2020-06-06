@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.main.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/study-algorithm.test.iml" filepath="$PROJECT_DIR$/.idea/modules/study-algorithm.test.iml" />
+    </modules>
+  </component>
+</project>
